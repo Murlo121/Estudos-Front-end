@@ -25,6 +25,7 @@ body{
 }
 
 .artigo p{
+    letter-spacing: 2px;
     text-align: left;
     line-height: 40px;
     margin-top: 12px;
