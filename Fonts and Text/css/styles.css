@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E1AA7D;
+}
+
+.artigo{
+    background-color: #BE8A60;
+    padding: 40px;
+    width: 1280px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.artigo h1{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 23px;
+    font-family: cursive;
+    color: #2E2836;
+}
+
+.artigo p{
+    text-align: left;
+    line-height: 40px;
+    margin-top: 12px;
+    font-size: 17px;
+    font-family: tahoma;
+    font-style: normal;
+    font-weight: bold;
+    color: #6A2E35;
+}
