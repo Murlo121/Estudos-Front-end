@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #D3D0CB;
+}
+
+html,body{
+    height: 100%;
+}
+
+.artigo{
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: #44BBA4;
+    width: 60%;
+    height: auto;
+    text-align: center;
+}
+
+.artigo h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 23px;
+    color:#393E41;
+}
+
+.artigo p{
+    color:#393E41;
+    letter-spacing: 2px;
+    text-align: left;
+    line-height: 40px;
+    margin-top: 12px;
+    font-size: 17px;
+    font-family: tahoma;
+    font-style: normal;
+
+
+}
