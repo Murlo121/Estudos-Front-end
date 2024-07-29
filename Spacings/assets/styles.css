@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    background-color: #FCD7AD;
+}
+
+.container{
+    padding: 30px 30px 30px 30px;
+    box-sizing: border-box;
+    background-color: #A57548;
+    margin: 20px auto;
+    width: 1280px;
+    font-family: monospace;
+}
+
+.article{
+margin-bottom: 40px;
+text-align: center;
+background-color: #b48050;
+border-radius: 5px;
+
+}
+
+.article h1{
+    width: 100%;
+    text-align: center;
+}
