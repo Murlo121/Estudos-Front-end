@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+html,body{
+    background-color: #FAFAFA;
+    height: 100%;
+}
+
+.box,.box-2{
+    background-color: #E3F2FD;
+    height: 200px;
+    width: 300px;
+    margin: 10px auto;
+    overflow: auto;
+}
+
